@@ -5,7 +5,7 @@ It is a fun React project to analyse the details of a GitHub profile by entering
 ## Features
 - Enter any GitHub username to fetch details.
 - Displays repositories, followers, and more.
-- Built using React + TypeScript + Vite.
+- Built using React 
 
 ## How to Run
 1. Clone the repository:
