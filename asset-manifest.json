@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kuldeeprana1/Github-Profile-Analyser/static/css/main.777a453d.css",
+    "main.js": "/kuldeeprana1/Github-Profile-Analyser/static/js/main.01ecb5b7.js",
+    "static/js/453.15a8cf70.chunk.js": "/kuldeeprana1/Github-Profile-Analyser/static/js/453.15a8cf70.chunk.js",
+    "index.html": "/kuldeeprana1/Github-Profile-Analyser/index.html",
+    "main.777a453d.css.map": "/kuldeeprana1/Github-Profile-Analyser/static/css/main.777a453d.css.map",
+    "main.01ecb5b7.js.map": "/kuldeeprana1/Github-Profile-Analyser/static/js/main.01ecb5b7.js.map",
+    "453.15a8cf70.chunk.js.map": "/kuldeeprana1/Github-Profile-Analyser/static/js/453.15a8cf70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.777a453d.css",
+    "static/js/main.01ecb5b7.js"
+  ]
+}
